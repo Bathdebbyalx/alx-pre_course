@@ -1,0 +1,3 @@
+git remote update
+git show branch
+git pull original main
